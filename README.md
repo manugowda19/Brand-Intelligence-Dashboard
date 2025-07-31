@@ -194,14 +194,6 @@ The dashboard will be considered successful when:
 
 This project is proprietary to LeapScholar. All rights reserved.
 
-## 🆘 Support
-
-For technical support or questions about the dashboard:
-
-- **Email**: tech@leapscholar.com
-- **Slack**: #brand-intelligence-dashboard
-- **Documentation**: [Internal Wiki Link]
-
 ---
 
 **Built with ❤️ for LeapScholar's Brand Intelligence Team** # Brand-Intelligence-Dashboard

@@ -2,6 +2,8 @@
 
 A unified, action-oriented dashboard for monitoring LeapScholar's brand sentiment and tracking conversations across multiple platforms in real-time.
 
+# Demonstartaion of the video - (click here)[https://drive.google.com/file/d/1XLlDGTsleIQsN25Mh27cP-rBr9MoiOHk/view?usp=share_link]
+
 ## 🎯 Vision
 
 Transform from reactive to proactive brand monitoring by providing a "one-stop" Brand Intelligence Dashboard that eliminates manual searching. Get a clear, concise, and immediate understanding of how LeapScholar is perceived online in less than five minutes a day.

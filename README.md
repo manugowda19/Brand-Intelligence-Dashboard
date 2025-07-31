@@ -2,7 +2,7 @@
 
 A unified, action-oriented dashboard for monitoring LeapScholar's brand sentiment and tracking conversations across multiple platforms in real-time.
 
-# Demonstartaion of the video - (click here)[https://drive.google.com/file/d/1XLlDGTsleIQsN25Mh27cP-rBr9MoiOHk/view?usp=share_link]
+# Demonstartaion of the video - (https://drive.google.com/file/d/1XLlDGTsleIQsN25Mh27cP-rBr9MoiOHk/view?usp=share_link)[click here]
 
 ## 🎯 Vision
 

@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  
+  body {
+    @apply bg-gray-50 text-gray-900;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-white rounded-lg shadow-sm border border-gray-200 p-6;
+  }
+  
+  .metric-card {
+    @apply bg-white rounded-lg shadow-sm border border-gray-200 p-4;
+  }
+  
+  .sentiment-positive {
+    @apply text-success-600 bg-success-50 border-success-200;
+  }
+  
+  .sentiment-negative {
+    @apply text-danger-600 bg-danger-50 border-danger-200;
+  }
+  
+  .sentiment-neutral {
+    @apply text-gray-600 bg-gray-50 border-gray-200;
+  }
+  
+  .alert-critical {
+    @apply bg-danger-50 border-danger-200 text-danger-800;
+  }
+  
+  .alert-warning {
+    @apply bg-warning-50 border-warning-200 text-warning-800;
+  }
+  
+  .alert-info {
+    @apply bg-primary-50 border-primary-200 text-primary-800;
+  }
+} 
